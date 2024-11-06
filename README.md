@@ -31,3 +31,4 @@
 2) Up-to-date news about cryptos in the global market.
 3) Chat Rooms. Discuss amongst friends or enemies(?)
 4) Link Exchange funds.
+# Cryptocurrency-Exchange-Platform
